@@ -44,7 +44,7 @@
   "devDependencies": {
     "electron": "^18.1.0",
     "electron-builder": "^23.0.3",
-    "mocha": "^3.5.3",
+    "mocha": "^10.2.0",
     "rimraf": "^2.6.3",
     "spectron": "^3.8.0",
     "xo": "^0.17.1"
